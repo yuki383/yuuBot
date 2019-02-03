@@ -1,0 +1,15 @@
+[
+  {
+    "kind": "TODO",
+    "regex": "todo",
+    "filename": "TODO.json"
+  },
+  {
+    "kind": "Reply",
+    "regex": ".*",
+    "replyList": [
+      "こんにちは",
+      "Hello!"
+    ]
+  }
+]

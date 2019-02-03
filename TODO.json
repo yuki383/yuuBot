@@ -1,0 +1,10 @@
+[ {
+  "todo" : "hoge",
+  "achieved" : true
+}, {
+  "todo" : "fuga",
+  "achieved" : false
+}, {
+  "todo" : "piyo",
+  "achieved" : false
+} ]
